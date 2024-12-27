@@ -1,6 +1,7 @@
 # CasaOS AppStore
 
-![Astro Labs - Logo](https://github.com/user-attachments/assets/c5888f77-17e4-4968-bcd0-01460011ab9a)
+![Astro Labs - Logo](https://github.com/user-attachments/assets/2505403b-768a-4f3a-8bed-99a987d54d35)
+
 
 
 CasaOS AppStore needs your help to grow:
