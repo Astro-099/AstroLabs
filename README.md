@@ -10,7 +10,8 @@ CasaOS AppStore needs your help to grow:
 
   **IMPORTANT**: Your PR must be *well tested* on your own CasaOS first. This is the mandatory first step for your submission.
 
-- Check `help wanted` for which issues you can help with.
+- Check our discord for which issues you can help with:
+  [Join our Discord Here](dsc.gg/astrolabs)
 
 Thank you!
 
@@ -24,15 +25,5 @@ Simply copy the provided source link and add it to your CasaOS settings to acces
 
 ## Contributors
 
-<a href="https://github.com/IceWhaleTech/CasaOS-AppStore/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=IceWhaleTech/CasaOS-AppStore" />
-</a>
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+NONE!!!!!!!!
+Please, I need help!
