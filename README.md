@@ -1,7 +1,7 @@
 # CasaOS AppStore
 
 
-![Astro Labs Logo](https://github.com/user-attachments/assets/edcc8069-9a9f-4a5d-970a-5e193d719339)
+![Astro Labs Logo]([https://github.com/user-attachments/assets/edcc8069-9a9f-4a5d-970a-5e193d719339](https://res.cloudinary.com/dpmw18zge/image/upload/c_pad,w_400,h_100/v1735325429/White-and-Black-Simple-Planet-Logo-removebg-preview_jp88pf.png))
 
 CasaOS AppStore needs your help to grow:
 
