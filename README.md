@@ -1,4 +1,4 @@
-# CasaOS AppStore
+# Astro Labs Appstore
 
 ![Astro Labs - Logo](https://github.com/user-attachments/assets/2505403b-768a-4f3a-8bed-99a987d54d35)
 
@@ -21,9 +21,9 @@ CasaOS allows you to customize your Appstore with a variety of third-party app s
 
 Simply copy the provided source link and add it to your CasaOS appstore to access the Astro Labs Appstore.
 
-- [Awesome Store list](https://awesome.casaos.io/content/3rd-party-app-stores/list.html)
+- github.com/Astro-099/AstroLabs/archive/refs/heads/main.zip
 
 ## Contributors
 
-NONE!!!!!!!!
-Please, I need help!
+> [!IMPORTANT]
+> Heyo! To keep Astro Labs at its best; we need your help! Join our discord for suggestions or if you are experienced apply to be an editor for our Appstore.
