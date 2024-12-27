@@ -23,6 +23,9 @@ Simply copy the provided source link and add it to your CasaOS appstore to acces
 
 - github.com/Astro-099/AstroLabs/archive/refs/heads/main.zip
 
+> [!NOTE]
+> Just a quick one folks! Most 3rd Party app librarys are completely safe to use, but some arn't so. Check up on CasaOS's offical sources over at their [forums *here*](https://awesome.casaos.io/content/3rd-party-app-stores/list.html)
+
 ## Contributors
 
 > [!NOTE]
