@@ -1,6 +1,7 @@
 # CasaOS AppStore
 
-[![GitHub issues by-label]([https://i.ibb.co/WGt3Pps/White-and-Black-Simple-Planet-Logo-removebg-preview.png])
+
+![Astro Labs Logo](https://github.com/user-attachments/assets/edcc8069-9a9f-4a5d-970a-5e193d719339)
 
 CasaOS AppStore needs your help to grow:
 
